@@ -8,3 +8,5 @@ setuptools==68.2.2
 threadpoolctl==3.3.0
 tqdm==4.66.2
 wheel==0.41.2
+pandas==2.2.3
+seaborn==0.13.2
